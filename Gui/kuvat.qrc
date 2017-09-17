@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/plantaasit">
+        <file>Kuvat/Plantaasit/dummy.png</file>
+        <file>Kuvat/Plantaasit/indigo.png</file>
+        <file>Kuvat/Plantaasit/kahvi.png</file>
+        <file>Kuvat/Plantaasit/louhos.png</file>
+        <file>Kuvat/Plantaasit/maissi.png</file>
+        <file>Kuvat/Plantaasit/sokeri.png</file>
+        <file>Kuvat/Plantaasit/tupakka.png</file>
+    </qresource>
+    <qresource prefix="/rakennukset">
+        <file>Kuvat/Rakennukset/hacienda.png</file>
+        <file>Kuvat/Rakennukset/kahvi.png</file>
+        <file>Kuvat/Rakennukset/kartano.png</file>
+        <file>Kuvat/Rakennukset/kaupungintalo.png</file>
+        <file>Kuvat/Rakennukset/kiltatalo.png</file>
+        <file>Kuvat/Rakennukset/laituri.png</file>
+        <file>Kuvat/Rakennukset/linnoitus.png</file>
+        <file>Kuvat/Rakennukset/majatalo.png</file>
+        <file>Kuvat/Rakennukset/pieni_indigo.png</file>
+        <file>Kuvat/Rakennukset/pieni_sokeri.png</file>
+        <file>Kuvat/Rakennukset/pieni_tori.png</file>
+        <file>Kuvat/Rakennukset/pieni_varasto.png</file>
+        <file>Kuvat/Rakennukset/rakennusvaja.png</file>
+        <file>Kuvat/Rakennukset/satama.png</file>
+        <file>Kuvat/Rakennukset/suuri_indigo.png</file>
+        <file>Kuvat/Rakennukset/suuri_sokeri.png</file>
+        <file>Kuvat/Rakennukset/suuri_tori.png</file>
+        <file>Kuvat/Rakennukset/suuri_varasto.png</file>
+        <file>Kuvat/Rakennukset/tehdas.png</file>
+        <file>Kuvat/Rakennukset/toimisto.png</file>
+        <file>Kuvat/Rakennukset/tullikamari.png</file>
+        <file>Kuvat/Rakennukset/tupakka.png</file>
+        <file>Kuvat/Rakennukset/yliopisto.png</file>
+    </qresource>
+</RCC>
